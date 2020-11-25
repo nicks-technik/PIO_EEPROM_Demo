@@ -1,10 +1,8 @@
-
 /*********
   Rui Santos
   Complete project details at http://randomnerdtutorials.com  
 *********/
 #include <Arduino.h>
-
 
 // include library to read and write from flash memory
 #include <EEPROM.h>
